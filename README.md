@@ -1,7 +1,7 @@
 # PhD
 A repository for files and scripts supporting my PhD thesis on the systematics of the Australasian Rutaceae.
 
-
+<img src="https://github.com/hkore1/PhD/blob/main/_bin/F_australis_flower.png" width=50% height=50%>
 <p align="center">
   <img src="https://github.com/hkore1/PhD/blob/main/_bin/F_australis_flower.png" width=50% height=50%>
 </p>
