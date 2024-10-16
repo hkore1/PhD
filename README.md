@@ -3,3 +3,6 @@ A repository for files and scripts supporting my PhD thesis on the systematics o
 
 
 ![tetxt](https://github.com/hkore1/PhD/blob/main/_bin/F_australis_flower.png)
+
+
+<img src="https://github.com/hkore1/PhD/blob/main/_bin/F_australis_flower.png" width="48">
